@@ -1,4 +1,4 @@
-# JSONFileTagger
+# JSONFileTagger (WIP)
 
 JSONFileTagger is a project aimed at creating a simple GUI application. The application allows users to tag files with custom tags they define, enabling efficient organization and search functionalities.
 
